@@ -1,0 +1,59 @@
+{
+    "learningData" : [
+        {
+          "id": 1,
+          "title": "Understanding Basic Programming Concepts",
+          "content": "Learn about data types, variables, loops, and conditional statements",
+          "video":"https://www.youtube.com/embed/9WIJQDvt4Us",
+          "topic":"Irrespective of the programming language you choose to learn, the basic concepts of programming are similar across languages. Some of these concepts include Variable Declaration Basic Syntax Data Type and Structures Flow Control Structures (Conditionals and loops) Functional Programming Object-Oriented Programming Debugging IDEs and Coding Environments In the next section of this shot, you will be given a brief introduction to these concepts. Variable declaration Variables are containers for storing data values, a memory location for a data type. Variables are created using a declaration or keyword that varies across languages. Variable names are usually alphanumeric, that is, they contain a-z and 0-9. They can also include special characters like underscore or the dollar sign. Variables can hold values of any data type supported by the programming language. This value may change during program execution.",
+          "resources": [
+            { "type": "article", "url": "https://www.educative.io/answers/what-are-the-basic-fundamental-concepts-of-programming"},
+            { "type": "exercise", "url": "https://codesandbox.io/s/adoring-bhabha-pxx7b2?file=/src/App.js"}
+          ]
+        },
+        {
+            "id": 2,
+            "title": "Learning a Programming Language",
+            "content": " Python, Java, or JavaScript and learning the basics of that language.",
+            "video":"https://www.youtube.com/embed/b093aqAZiPU",
+            "topic":"A lot of shiny new features came out with ES2015 (ES6). And now, since it's 2020, it's assumed that a lot of JavaScript developers have become familiar with and have started using these features.While this assumption might be partially true, its still possible that some of these features remain a mystery to some devs.One of the features that came with ES6 is the addition of let and const, which can be used for variable declaration. The question is, what makes them different from good ol' var which we've been using? If you are still not clear about this, then this article is for you.In this article, we'll discuss var let and const  with respect to their scope, use, and h",
+            "resources": [
+              { "type": "article", "url": "https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/"},
+              { "type": "exercise", "url": "https://codesandbox.io/s/adoring-bhabha-pxx7b2?file=/src/App.js"}
+            ]
+          },
+          {
+            "id": 3,
+            "title": "Understanding Algorithms and Data Structures",
+            "content": " arrays, linked lists, stacks, queues, sorting algorithms, and searching algorithms.",
+            "video":"https://www.youtube.com/embed/8hly31xKli0",
+            "topic":"A data structure is a named location that can be used to store and organize data. And, an algorithm is a collection of steps to solve a particular problem. Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
+            "resources": [
+              { "type": "article", "url": "https://www.programiz.com/dsa#:~:text=A%20data%20structure%20is%20a,efficient%20and%20optimized%20computer%20programs."},
+              { "type": "exercise", "url": "https://leetcode.com/problemset/all/"}
+            ]
+          },
+          {
+            "id": 4,
+            "title": "Building Simple Programs",
+            "content": "Learn about data types, variables, loops, and conditional statements",
+            "video":"https://www.youtube.com/embed/8hly31xKli0",
+            "topic":"A lot of shiny new features came out with ES2015 (ES6). And now, since it's 2020, it's assumed that a lot of JavaScript developers have become familiar with and have started using these features.While this assumption might be partially true, its still possible that some of these features remain a mystery to some devs.One of the features that came with ES6 is the addition of let and const, which can be used for variable declaration. The question is, what makes them different from good ol' var which we've been using? If you are still not clear about this, then this article is for you.In this article, we'll discuss var let and const  with respect to their scope, use, and h",
+            "resources": [
+              { "type": "article", "url": "https://www.wikihow.com/Create-a-Program"},
+              { "type": "exercise", "url": "https://codesandbox.io/s/adoring-bhabha-pxx7b2?file=/src/App.js"}
+            ]
+          },
+          {
+            "id": 5,
+            "title": "Building Complex Programs",
+            "content": "Learn about data types, variables, loops, and conditional statements",
+            "video":"https://www.youtube.com/embed/tv_9doDQJU0",
+            "topic":"A lot of shiny new features came out with ES2015 (ES6). And now, since it's 2020, it's assumed that a lot of JavaScript developers have become familiar with and have started using these features.While this assumption might be partially true, its still possible that some of these features remain a mystery to some devs.One of the features that came with ES6 is the addition of let and const, which can be used for variable declaration. The question is, what makes them different from good ol' var which we've been using? If you are still not clear about this, then this article is for you.In this article",
+            "resources": [
+              { "type": "article", "url": "https://example.com/article1"},
+              { "type": "exercise", "url": "https://codesandbox.io/s/adoring-bhabha-pxx7b2?file=/src/App.js "}
+            ]
+          }
+      ]
+  }
